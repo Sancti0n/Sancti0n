@@ -17,7 +17,6 @@ Je suis un développeur passionné par la création de solutions web robustes, m
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="40" height="40" alt="HTML5" /></a>
   <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="40" height="40" alt="CSS3" /></a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="40" height="40" alt="MySQL" /></a>
-  
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="40" height="40" alt="Django" /></a>
 </p>
 
@@ -59,5 +58,3 @@ Ceci représente le nombre de solutions complétées pour chaque niveau de diffi
 * **Codewars :** <a href="https://www.codewars.com/users/Sancti0n" target="_blank">Mon profil</a>
 
 ![Codewars Badge](https://www.codewars.com/users/Sancti0n/badges/large)
-
----
