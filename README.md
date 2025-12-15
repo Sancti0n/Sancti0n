@@ -42,10 +42,10 @@ Ceci représente le nombre de solutions complétées pour chaque niveau de diffi
 | Niveau de Difficulté | Nombre de Katas Complétés |
 | :------------------- | :-------------------------- |
 | **4 Kyu** (Pro)      | **2** |
-| **5 Kyu** (Intermédiaire) | **27** |
-| **6 Kyu** (Basique)  | **151** |
-| **7 Kyu** (Novice)   | **708** |
-| **8 Kyu** (Débutant) | **330** |
+| **5 Kyu** (Intermédiaire) | **30** |
+| **6 Kyu** (Basique)  | **163** |
+| **7 Kyu** (Novice)   | **729** |
+| **8 Kyu** (Débutant) | **332** |
 
 ---
 
