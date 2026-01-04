@@ -40,12 +40,29 @@ Je suis un développeur passionné par la création de solutions web robustes, m
 Ceci représente le nombre de solutions complétées pour chaque niveau de difficulté (Kyu).
 
 | Niveau de Difficulté | Nombre de Katas Complétés |
-| :------------------- | :-------------------------- |
+| :------------------- | :------------------------ |
 | **4 Kyu** (Pro)      | **2** |
 | **5 Kyu** (Intermédiaire) | **32** |
 | **6 Kyu** (Basique)  | **170** |
 | **7 Kyu** (Novice)   | **741** |
 | **8 Kyu** (Débutant) | **336** |
+
+| Langage | Rang (8 kyu -> 1 dan) | Nombre d'algorithmes |
+| :------ | :-------------------: | :------------------: |
+| JavaScript |2 kyu | 1233 |
+| Python | 2 kyu | 1217 |
+| PHP | 4 kyu | 348 |
+| Java | 4 kyu | 344 |
+| TypeScript | 5 kyu | 119 |
+| SQL | 6 kyu | 46 |
+| Dart | 8 kyu | 5 |
+| C | 8 kyu | 3 |
+| C# | 8 kyu | 1 |
+| D | 8 kyu | 1 |
+| Rust | 8 kyu | 1 |
+| C++ | 8 kyu | 1 |
+| Nombre d'algorithmes cumulés | | 3319 |
+| Nombre d'algorithmes uniques | | 1429 |
 
 ---
 
