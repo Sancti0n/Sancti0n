@@ -37,19 +37,19 @@ Je suis un développeur passionné par la création de solutions web robustes, m
 
 ### 🥋 Statistiques de Compétences (Katas Codewars)
 
-Ceci représente le nombre de solutions complétées pour chaque niveau de difficulté (Kyu).
-
+#### Nombres d'algorithmes par difficultés (8 kyu, le plus bas, 1 dan, le plus élevé)
 | Niveau de Difficulté | Nombre de Katas Complétés |
 | :------------------- | :------------------------ |
-| **4 Kyu** (Pro)      | **2** |
-| **5 Kyu** (Intermédiaire) | **32** |
-| **6 Kyu** (Basique)  | **170** |
-| **7 Kyu** (Novice)   | **741** |
-| **8 Kyu** (Débutant) | **336** |
+| **4 kyu** (Pro)      | **2** |
+| **5 kyu** (Intermédiaire) | **32** |
+| **6 kyu** (Basique)  | **170** |
+| **7 kyu** (Novice)   | **741** |
+| **8 kyu** (Débutant) | **336** |
 
+#### Répartition des algorithmes par langage, total et nombre de solutions uniques
 | Langage | Rang (8 kyu -> 1 dan) | Nombre d'algorithmes |
 | :------ | :-------------------: | :------------------: |
-| JavaScript |2 kyu | 1233 |
+| JavaScript | 2 kyu | 1233 |
 | Python | 2 kyu | 1217 |
 | PHP | 4 kyu | 348 |
 | Java | 4 kyu | 344 |
@@ -62,7 +62,24 @@ Ceci représente le nombre de solutions complétées pour chaque niveau de diffi
 | Rust | 8 kyu | 1 |
 | C++ | 8 kyu | 1 |
 | Nombre d'algorithmes cumulés | | 3319 |
-| Nombre d'algorithmes uniques | | 1429 |
+| Nombre de solutions uniques  | | 1429 |
+
+#### Compétences & Thématiques Algorithmiques
+| **Logique & Puzzles** | **Mathématiques** | **Technique** |
+| :--- | :--- | :--- |
+| • Algorithmes | • Algèbre | • Base de données / SQL |
+| • Games (Logique) | • Mathématiques | • Big Integers |
+| • Puzzles | • Géométrie | • Binaire |
+| • Contraintes | • Combinatoire | • Cryptographie |
+| • Manipulation de listes | • Matrice | • Data Science |
+
+| **Traitement de données** | **Développement** | **Autres** |
+| :--- | :--- | :--- |
+| • Manipulation de strings | • Fondamentaux | • Art ASCII |
+| • Parsing | • POO | • Date Time |
+| • Structure de données | • Recursion | • Débogage |
+| • Tri | • Performance & Optimisation | • Tutoriaux |
+| • Expression régulière | • Réseau | • Tri |
 
 ---
 
