@@ -42,7 +42,7 @@ Je suis un développeur passionné par la création de solutions web robustes, m
 | :------------------- | :------------------------ |
 | **4 kyu** (Pro)      | **2** |
 | **5 kyu** (Intermédiaire) | **32** |
-| **6 kyu** (Basique)  | **170** |
+| **6 kyu** (Basique)  | **172** |
 | **7 kyu** (Novice)   | **741** |
 | **8 kyu** (Débutant) | **336** |
 
