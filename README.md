@@ -42,17 +42,17 @@ Je suis un développeur passionné par la création de solutions web robustes, m
 | :------------------- | :------------------------ |
 | **4 kyu** (Pro)      | **2** |
 | **5 kyu** (Intermédiaire) | **32** |
-| **6 kyu** (Basique)  | **172** |
-| **7 kyu** (Novice)   | **741** |
+| **6 kyu** (Basique)  | **173** |
+| **7 kyu** (Novice)   | **742** |
 | **8 kyu** (Débutant) | **336** |
 
 #### Répartition des algorithmes par langage, total et nombre de solutions uniques
 | Langage | Rang (8 kyu -> 1 dan) | Nombre d'algorithmes |
 | :------ | :-------------------: | :------------------: |
-| JavaScript | 2 kyu | 1233 |
+| JavaScript | 2 kyu | 1237 |
 | Python | 2 kyu | 1217 |
 | PHP | 4 kyu | 348 |
-| Java | 4 kyu | 344 |
+| Java | 4 kyu | 345 |
 | TypeScript | 5 kyu | 119 |
 | SQL | 6 kyu | 46 |
 | Dart | 8 kyu | 5 |
@@ -61,8 +61,8 @@ Je suis un développeur passionné par la création de solutions web robustes, m
 | D | 8 kyu | 1 |
 | Rust | 8 kyu | 1 |
 | C++ | 8 kyu | 1 |
-| Nombre d'algorithmes cumulés | | 3319 |
-| Nombre de solutions uniques  | | 1429 |
+| Nombre d'algorithmes cumulés | | 3324 |
+| Nombre de solutions uniques  | | 1433 |
 
 #### Compétences & Thématiques Algorithmiques
 | **Logique & Puzzles** | **Mathématiques** | **Technique** |
