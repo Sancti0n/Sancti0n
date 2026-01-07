@@ -49,7 +49,7 @@ Je suis un développeur passionné par la création de solutions web robustes, m
 #### Répartition des algorithmes par langage, total et nombre de solutions uniques
 | Langage | Rang (8 kyu -> 1 dan) | Nombre d'algorithmes |
 | :------ | :-------------------: | :------------------: |
-| JavaScript | 2 kyu | 1237 |
+| JavaScript | 2 kyu | 1238 |
 | Python | 2 kyu | 1217 |
 | PHP | 4 kyu | 348 |
 | Java | 4 kyu | 345 |
