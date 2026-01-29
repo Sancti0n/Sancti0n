@@ -6,8 +6,9 @@ Hi 👋 Mon nom est Jérémie !
 Je suis un développeur passionné par la création de solutions web robustes, mais surtout par **l'art de la résolution algorithmique**. Ma curiosité me pousse constamment à explorer les structures de données, les défis mathématiques et l'optimisation des performances. Actuellement, je me concentre sur le développement **full-stack** en utilisant Node.js et Angular. N'hésitez pas à explorer mes dépôts et à me contacter !
 
 ---
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=#Sancti0n&theme=dracula&hide_border=true)
-
+## Stats📈 <p align="center"> <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sancti0n&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="Sancti0n" />  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Sancti0n&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="Sancti0n" /> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sancti0n&theme=highcontrast&hide_border=true" alt="Sancti0n" /> </p>
+---
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Sancti0n&theme=dracula&hide_border=true)
 ---
 
 ### 🛠️ Compétences Techniques Clés
