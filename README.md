@@ -6,6 +6,9 @@ Hi 👋 Mon nom est Jérémie !
 Je suis un développeur passionné par la création de solutions web robustes, mais surtout par **l'art de la résolution algorithmique**. Ma curiosité me pousse constamment à explorer les structures de données, les défis mathématiques et l'optimisation des performances. Actuellement, je me concentre sur le développement **full-stack** en utilisant Node.js et Angular. N'hésitez pas à explorer mes dépôts et à me contacter !
 
 ---
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=#Sancti0n&theme=dracula&hide_border=true)
+
+---
 
 ### 🛠️ Compétences Techniques Clés
 
