@@ -7,6 +7,18 @@ Je suis un développeur passionné par la création de solutions web robustes, m
 
 ---
 
+### 📬 Où me trouver et me contacter
+
+* <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="22" height="22" alt="LinkedIn" style="vertical-align: middle; margin-right: 5px;">**LinkedIn :** <a href="https://www.linkedin.com/in/j%C3%A9r%C3%A9mie-maufret/" target="_blank" rel="noreferrer">Mon profil</a>
+    
+* **freeCodeCamp :** <a href="https://www.freecodecamp.org/fcc7f604b88-9a6b-4009-b621-da6f433437e4" target="_blank">Mon profil</a>
+    
+* **Codewars :** <a href="https://www.codewars.com/users/Sancti0n" target="_blank">Mon profil</a>
+
+![Codewars Badge](https://www.codewars.com/users/Sancti0n/badges/large)
+
+---
+
 ### 🛠️ Compétences Techniques Clés
 
 <p align="left">
@@ -37,19 +49,19 @@ Je suis un développeur passionné par la création de solutions web robustes, m
 | Niveau de Difficulté | Nombre de Katas Complétés |
 | :------------------- | :------------------------ |
 | **4 kyu** (Pro)      | **2** |
-| **5 kyu** (Intermédiaire) | **33** |
-| **6 kyu** (Basique)  | **184** |
-| **7 kyu** (Novice)   | **812** |
-| **8 kyu** (Débutant) | **337** |
+| **5 kyu** (Intermédiaire) | **34** |
+| **6 kyu** (Basique)  | **187** |
+| **7 kyu** (Novice)   | **838** |
+| **8 kyu** (Débutant) | **338** |
 
 #### Répartition des algorithmes par langage, total et nombre de solutions uniques
 | Langage | Rang (8 kyu -> 1 dan) | Nombre d'algorithmes |
 | :------ | :-------------------: | :------------------: |
-| JavaScript | 2 kyu | 1310 |
-| Python | 2 kyu | 1244 |
-| PHP | 4 kyu | 358 |
-| Java | 4 kyu | 354 |
-| TypeScript | 5 kyu | 119 |
+| JavaScript | 2 kyu | 1338 |
+| Python | 2 kyu | 1262 |
+| PHP | 4 kyu | 360 |
+| Java | 4 kyu | 355 |
+| TypeScript | 5 kyu | 120 |
 | SQL | 6 kyu | 46 |
 | Dart | 8 kyu | 5 |
 | C | 8 kyu | 3 |
@@ -57,8 +69,8 @@ Je suis un développeur passionné par la création de solutions web robustes, m
 | D | 8 kyu | 1 |
 | Rust | 8 kyu | 1 |
 | C++ | 8 kyu | 1 |
-| Nombre d'algorithmes cumulés | | 3443 |
-| Nombre de solutions uniques  | | 1514 |
+| Nombre d'algorithmes cumulés | | 3493 |
+| Nombre de solutions uniques  | | 1544 |
 
 #### Compétences & Thématiques Algorithmiques
 | **Logique & Puzzles** | **Mathématiques** | **Technique** |
@@ -78,13 +90,3 @@ Je suis un développeur passionné par la création de solutions web robustes, m
 | • Expression régulière | • Réseau | • Tri |
 
 ---
-
-### 📬 Où me trouver et me contacter
-
-* <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="22" height="22" alt="LinkedIn" style="vertical-align: middle; margin-right: 5px;">**LinkedIn :** <a href="https://www.linkedin.com/in/j%C3%A9r%C3%A9mie-maufret/" target="_blank" rel="noreferrer">Mon profil</a>
-    
-* **freeCodeCamp :** <a href="https://www.freecodecamp.org/fcc7f604b88-9a6b-4009-b621-da6f433437e4" target="_blank">Mon profil</a>
-    
-* **Codewars :** <a href="https://www.codewars.com/users/Sancti0n" target="_blank">Mon profil</a>
-
-![Codewars Badge](https://www.codewars.com/users/Sancti0n/badges/large)
