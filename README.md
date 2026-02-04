@@ -48,7 +48,7 @@ Je suis un développeur passionné par la création de solutions web robustes, m
 #### Nombres d'algorithmes par difficultés (8 kyu, le plus bas, 1 dan, le plus élevé)
 | Niveau de Difficulté | Nombre de Katas Complétés |
 | :------------------- | :------------------------ |
-| **4 kyu** (Pro)      | **2** |
+| **4 kyu** (Pro)      | **3** |
 | **5 kyu** (Intermédiaire) | **34** |
 | **6 kyu** (Basique)  | **187** |
 | **7 kyu** (Novice)   | **838** |
@@ -59,8 +59,8 @@ Je suis un développeur passionné par la création de solutions web robustes, m
 | :------ | :-------------------: | :------------------: |
 | JavaScript | 2 kyu | 1338 |
 | Python | 2 kyu | 1262 |
-| PHP | 4 kyu | 360 |
-| Java | 4 kyu | 355 |
+| PHP | 4 kyu | 361 |
+| Java | 4 kyu | 356 |
 | TypeScript | 5 kyu | 120 |
 | SQL | 6 kyu | 46 |
 | Dart | 8 kyu | 5 |
@@ -69,7 +69,7 @@ Je suis un développeur passionné par la création de solutions web robustes, m
 | D | 8 kyu | 1 |
 | Rust | 8 kyu | 1 |
 | C++ | 8 kyu | 1 |
-| Nombre d'algorithmes cumulés | | 3493 |
+| Nombre d'algorithmes cumulés | | 3495 |
 | Nombre de solutions uniques  | | 1544 |
 
 #### Compétences & Thématiques Algorithmiques
