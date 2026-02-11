@@ -37,8 +37,7 @@ Je suis un développeur passionné par la création de solutions web robustes, m
 ### 📊 Mes Statistiques Générales sur GitHub
 
 <a href="http://www.github.com/Sancti0n">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sancti0n&layout=pie&langs_count=10&theme=dark&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&hide=jupyter%20notebook" 
-             alt="Répartition des langages sur le profil" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sancti0n&layout=pie&langs_count=10&theme=dark&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&hide=jupyter%20notebook" alt="Répartition des langages sur le profil" />
 </a>
 
 ---
@@ -51,18 +50,18 @@ Je suis un développeur passionné par la création de solutions web robustes, m
 | **3 kyu** (Expert)   | **1** |
 | **4 kyu** (Pro)      | **3** |
 | **5 kyu** (Intermédiaire) | **34** |
-| **6 kyu** (Basique)  | **187** |
-| **7 kyu** (Novice)   | **843** |
+| **6 kyu** (Basique)  | **189** |
+| **7 kyu** (Novice)   | **864** |
 | **8 kyu** (Débutant) | **339** |
 
 #### Répartition des algorithmes par langage, total et nombre de solutions uniques
 | Langage | Rang (8 kyu -> 1 dan) | Nombre d'algorithmes |
 | :------ | :-------------------: | :------------------: |
-| JavaScript | 2 kyu | 1344 |
-| Python | 2 kyu | 1267 |
-| PHP | 4 kyu | 363 |
-| Java | 4 kyu | 358 |
-| TypeScript | 5 kyu | 121 |
+| JavaScript | 2 kyu | 1359 |
+| Python | 2 kyu | 1283 |
+| PHP | 4 kyu | 365 |
+| Java | 4 kyu | 361 |
+| TypeScript | 5 kyu | 122 |
 | SQL | 6 kyu | 46 |
 | Dart | 8 kyu | 5 |
 | C | 8 kyu | 3 |
@@ -70,8 +69,8 @@ Je suis un développeur passionné par la création de solutions web robustes, m
 | D | 8 kyu | 1 |
 | Rust | 8 kyu | 1 |
 | C++ | 8 kyu | 1 |
-| Nombre d'algorithmes cumulés | | 3511 |
-| Nombre de solutions uniques  | | 1551 |
+| Nombre d'algorithmes cumulés | | 3548 |
+| Nombre de solutions uniques  | | 1574 |
 
 #### Compétences & Thématiques Algorithmiques
 | **Logique & Puzzles** | **Mathématiques** | **Technique** |
