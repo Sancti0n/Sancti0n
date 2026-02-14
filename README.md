@@ -50,27 +50,28 @@ Je suis un développeur passionné par la création de solutions web robustes, m
 | **3 kyu** (Expert)   | **1** |
 | **4 kyu** (Pro)      | **3** |
 | **5 kyu** (Intermédiaire) | **34** |
-| **6 kyu** (Basique)  | **189** |
-| **7 kyu** (Novice)   | **864** |
+| **6 kyu** (Basique)  | **190** |
+| **7 kyu** (Novice)   | **867** |
 | **8 kyu** (Débutant) | **339** |
 
 #### Répartition des algorithmes par langage, total et nombre de solutions uniques
 | Langage | Rang (8 kyu -> 1 dan) | Nombre d'algorithmes |
 | :------ | :-------------------: | :------------------: |
-| JavaScript | 2 kyu | 1359 |
-| Python | 2 kyu | 1283 |
-| PHP | 4 kyu | 365 |
+| JavaScript | 2 kyu | 1364 |
+| Python | 2 kyu | 1286 |
+| PHP | 4 kyu | 366 |
 | Java | 4 kyu | 361 |
 | TypeScript | 5 kyu | 122 |
 | SQL | 6 kyu | 46 |
-| Dart | 8 kyu | 5 |
-| C | 8 kyu | 3 |
-| C# | 8 kyu | 1 |
+| Dart | 8 kyu | 6 |
+| C | 8 kyu | 4 |
+| C++ | 8 kyu | 3 |
+| C# | 8 kyu | 2 |
+| Rust | 8 kyu | 2 |
+| Ruby | 8 kyu | 2 |
 | D | 8 kyu | 1 |
-| Rust | 8 kyu | 1 |
-| C++ | 8 kyu | 1 |
-| Nombre d'algorithmes cumulés | | 3548 |
-| Nombre de solutions uniques  | | 1574 |
+| Nombre d'algorithmes cumulés | | 3565 |
+| Nombre de solutions uniques  | | 1578 |
 
 #### Compétences & Thématiques Algorithmiques
 | **Logique & Puzzles** | **Mathématiques** | **Technique** |
