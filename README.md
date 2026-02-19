@@ -9,13 +9,11 @@ Je suis un développeur passionné par la création de solutions web robustes, m
 
 ### 📬 Où me trouver et me contacter
 
-* <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="22" height="22" alt="LinkedIn" style="vertical-align: middle; margin-right: 5px;">**LinkedIn :** <a href="https://www.linkedin.com/in/j%C3%A9r%C3%A9mie-maufret/" target="_blank" rel="noreferrer">Mon profil</a>
+* <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="22" height="22" alt="LinkedIn" style="vertical-align: middle; margin-right: 5px;"> **LinkedIn :** <a href="https://www.linkedin.com/in/j%C3%A9r%C3%A9mie-maufret/" target="_blank" rel="noreferrer">Mon profil</a>
     
 * **freeCodeCamp :** <a href="https://www.freecodecamp.org/fcc7f604b88-9a6b-4009-b621-da6f433437e4" target="_blank">Mon profil</a>
     
 * **Codewars :** <a href="https://www.codewars.com/users/Sancti0n" target="_blank">Mon profil</a>
-
-![Codewars Badge](https://www.codewars.com/users/Sancti0n/badges/large)
 
 ---
 
@@ -52,6 +50,8 @@ Honor Percentile: Top 0.163%
 Total Completed Kata: 1,581  
 Total Languages Trained: 13  
 Highest Trained: JavaScript (2 kyu)  
+
+![Codewars Badge](https://www.codewars.com/users/Sancti0n/badges/large)
 
 #### Nombres d'algorithmes par difficultés (8 kyu, le plus bas, 1 dan, le plus élevé)
 | Niveau de Difficulté | Nombre de Katas Complétés |
