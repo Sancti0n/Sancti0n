@@ -9,13 +9,13 @@ Je suis un développeur passionné par la création de solutions web robustes, m
 
 ### 📬 Où me trouver et me contacter
 
-* <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="22" height="22" alt="LinkedIn" style="vertical-align: middle; margin-right: 5px;"> **LinkedIn :** <a href="https://www.linkedin.com/in/j%C3%A9r%C3%A9mie-maufret/" target="_blank" rel="noreferrer">Mon profil</a>
+* <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="22" height="22" alt="LinkedIn"> **LinkedIn :** <a href="https://www.linkedin.com/in/j%C3%A9r%C3%A9mie-maufret/" target="_blank" rel="noreferrer">Mon profil</a>
     
-* **freeCodeCamp :** <a href="https://www.freecodecamp.org/fcc7f604b88-9a6b-4009-b621-da6f433437e4" target="_blank">Mon profil</a>
+* <img src="https://design-style-guide.freecodecamp.org/downloads/fcc_primary_small.svg" width="40" height="40" alt="FreeCodeCamp"/> **freeCodeCamp :** <a href="https://www.freecodecamp.org/fcc7f604b88-9a6b-4009-b621-da6f433437e4" target="_blank">Mon profil</a>
     
-* **Codewars :** <a href="https://www.codewars.com/users/Sancti0n" target="_blank">Mon profil</a>
+* <img src="https://img.icons8.com/fluent/1200/codewars.jpg" width="22" height="22" alt="Codewars"/> **Codewars :** <a href="https://www.codewars.com/users/Sancti0n" target="_blank">Mon profil</a>
 
-
+* <img src="https://github.com/rdimascio/icons/blob/master/icons/gitlab.svg" width="22" height="22" alt="GitLab"/> **GitLab :** <a href="https://gitlab.com/Sancti0n" target="_blank">Mon profil</a>
 
 ---
 
@@ -32,7 +32,9 @@ Je suis un développeur passionné par la création de solutions web robustes, m
     <a href="https://gitlab.com" target="_blank" rel="noreferrer"><img src="https://github.com/rdimascio/icons/blob/master/icons/gitlab.svg" width="40" height="40" alt="GitLab"/></a>
     <a href="https://github.com" target="_blank" rel="noreferrer"><img src="https://github.com/rdimascio/icons/blob/master/icons/github.svg" width="40" height="40" alt="GitHub"/></a>
     <a href="https://firefox.com" target="_blank" rel="noreferrer"><img src="https://github.com/rdimascio/icons/blob/master/icons/firefox.svg" width="40" height="40" alt="Firefox"/></a>
+    <a href="https://codewars.com" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/fluent/1200/codewars.jpg" width="40" height="40" alt="Codewars"/></a>
     <img src="https://cdn-icons-png.flaticon.com/512/1471/1471444.png" width="40" height="40" alt="Algorithm"/>
+    <a href="https://www.freecodecamp.org/" target="_blank" rel="noreferrer"><img src="https://design-style-guide.freecodecamp.org/downloads/fcc_primary_small.svg" width="40" height="40" alt="FreeCodeCamp"/></a>
 </p>
 
 ---
