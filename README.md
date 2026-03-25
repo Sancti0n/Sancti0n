@@ -51,10 +51,10 @@ Je suis un développeur passionné par la création de solutions web robustes, m
 
 ## Informations
 Rank: 2 kyu  
-Honor: 7,266  
-Leaderboard Position: #1,156  
-Honor Percentile: Top 0.154%  
-Total Completed Kata: 1,641  
+Honor: 7,302  
+Leaderboard Position: #1,150  
+Honor Percentile: Top 0.153%  
+Total Completed Kata: 1,649  
 Total Languages Trained: 13  
 Highest Trained: JavaScript (2 kyu)   
 
