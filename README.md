@@ -9,33 +9,78 @@ Je suis un développeur passionné par la création de solutions web robustes, m
 
 ### 📬 Où me trouver et me contacter
 
-* <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="22" height="22" alt="LinkedIn" title="Linkedin"> **LinkedIn :** <a href="https://www.linkedin.com/in/j%C3%A9r%C3%A9mie-maufret/" target="_blank" rel="noreferrer"> Mon profil</a>
-    
-* <img src="https://design-style-guide.freecodecamp.org/downloads/fcc_primary_small.svg" width="22" height="22" alt="freeCodeCamp" title="freeCodeCamp"/> **freeCodeCamp :** <a href="https://www.freecodecamp.org/fcc7f604b88-9a6b-4009-b621-da6f433437e4" target="_blank" rel="noreferrer"> Mon profil</a>
-    
-* <img src="https://img.icons8.com/fluent/1200/codewars.jpg" width="22" height="22" alt="Codewars" title="Codewars"/> **Codewars :** <a href="https://www.codewars.com/users/Sancti0n" target="_blank" rel="noreferrer"> Mon profil</a>
-
-* <img src="https://github.com/rdimascio/icons/blob/master/icons/gitlab.svg" width="22" height="22" alt="GitLab" title="GitLab"/> **GitLab :** <a href="https://gitlab.com/Sancti0n" target="_blank" rel="noreferrer"> Mon profil</a>
+<table style="border: none; border-collapse: collapse;">
+  <tr style="border: none;">
+    <td style="border: none; vertical-align: middle;">
+      <a href="https://www.linkedin.com/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="22" height="22" alt="LinkedIn"/>
+      </a>
+    </td>
+    <td style="border: none; vertical-align: middle;">
+      <strong>LinkedIn :</strong> <a href="https://www.linkedin.com/in/j%C3%A9r%C3%A9mie-maufret/" target="_blank" rel="noreferrer">Mon profil</a>
+    </td>
+  </tr>
+  <tr style="border: none;">
+    <td style="border: none; vertical-align: middle;">
+      <a href="https://www.freecodecamp.org" target="_blank" rel="noreferrer">
+          <img src="https://design-style-guide.freecodecamp.org/downloads/fcc_primary_small.svg" width="22" height="22" alt="freeCodeCamp"/>
+      </a>
+    </td>
+    <td style="border: none; vertical-align: middle;">
+      <strong>freeCodeCamp :</strong> <a href="https://www.freecodecamp.org/fcc7f604b88-9a6b-4009-b621-da6f433437e4" target="_blank" rel="noreferrer">Mon profil</a>
+    </td>
+  </tr>
+    <tr style="border: none;">
+    <td style="border: none; vertical-align: middle;">
+      <a href="https://www.codewars.com" target="_blank" rel="noreferrer">
+          <img src="https://img.icons8.com/fluent/1200/codewars.jpg" width="22" height="22" alt="Codewars"/>
+      </a>
+    </td>
+    <td style="border: none; vertical-align: middle;">
+      <strong>Codewars :</strong> <a href="https://www.codewars.com/users/Sancti0n" target="_blank" rel="noreferrer">Mon profil</a>
+    </td>
+  </tr>
+    <tr style="border: none;">
+    <td style="border: none; vertical-align: middle;">
+      <a href="https://gitlab.com" target="_blank" rel="noreferrer">
+          <img src="https://github.com/rdimascio/icons/blob/master/icons/gitlab.svg" width="22" height="22" alt="GitLab"/>
+      </a>
+    </td>
+    <td style="border: none; vertical-align: middle;">
+      <strong>GitLab :</strong> <a href="https://gitlab.com/Sancti0n" target="_blank" rel="noreferrer">Mon profil</a>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### 🛠️ Compétences Techniques Clés
 
-<p align="left">
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="40" height="40" alt="Javascript" title="JavaScript"/></a>
-    <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="40" height="40" alt="PHP" title="PHP"/></a>
-    <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="40" height="40" alt="Python" title="Python"/></a>
-    <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="40" height="40" alt="Java" title="Java"/></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="40" height="40" alt="HTML5" title="HTML5"/></a>
-    <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="40" height="40" alt="CSS3" title="CSS3"/></a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="40" height="40" alt="MySQL" title="MySQL"/></a>
-    <a href="https://gitlab.com" target="_blank" rel="noreferrer"><img src="https://github.com/rdimascio/icons/blob/master/icons/gitlab.svg" width="40" height="40" alt="GitLab" title="GitLab"/></a>
-    <a href="https://github.com" target="_blank" rel="noreferrer"><img src="https://github.com/rdimascio/icons/blob/master/icons/github.svg" width="40" height="40" alt="GitHub" title="GitHub"/></a>
-    <a href="https://firefox.com" target="_blank" rel="noreferrer"><img src="https://github.com/rdimascio/icons/blob/master/icons/firefox.svg" width="40" height="40" alt="Firefox" title="Firefox"/></a>
-    <a href="https://codewars.com" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/fluent/1200/codewars.jpg" width="40" height="40" alt="Codewars" title="Codewars"/></a>
-    <a href="https://fr.wikipedia.org/wiki/Algorithme" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/1471/1471444.png" width="40" height="40" alt="Algorithm" title="Algorithm"/></a>
-    <a href="https://www.freecodecamp.org/" target="_blank" rel="noreferrer"><img src="https://design-style-guide.freecodecamp.org/downloads/fcc_primary_small.svg" width="40" height="40" alt="freeCodeCamp" title="freeCodeCamp"/></a>
-</p>
+<table border="0">
+  <tr>
+    <td><b>Languages</b></td>
+    <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="40" height="40" alt="Javascript" title="JavaScript"/></a></td>
+    <td><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="40" height="40" alt="HTML5" title="HTML5"/></a></td>
+    <td><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="40" height="40" alt="CSS3" title="CSS3"/></a></td>
+    <td><a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="40" height="40" alt="PHP" title="PHP"/></a></td>
+    <td><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="40" height="40" alt="Python" title="Python"/></a></td>
+    <td><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="40" height="40" alt="Java" title="Java"/></a></td>
+    <td><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="40" height="40" alt="MySQL" title="MySQL"/></a></td>
+    <td><a href="https://en.wikipedia.org/wiki/SQL" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/download/331760/sql-database-generic.svg" width="40" height="40" alt="SQL" title="SQL" style="filter: brightness(0) saturate(100%) invert(31%) sepia(94%) General-blue-tone;"/></a></td>
+  </tr>
+  <tr>
+    <td><b>Tools</b></td>
+    <td><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="40" height="40" alt="VS Code" title="Visual Studio Code"/></a></td>
+    <td><a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=idea" width="40" height="40" alt="IntelliJ" title="IntelliJ IDEA"/></a></td>
+    <td><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="40" height="40" alt="Git" title="Git"/></a></td>
+    <td><a href="https://github.com" target="_blank" rel="noreferrer"><img src="https://github.com/rdimascio/icons/blob/master/icons/github.svg" width="40" height="40" alt="GitHub" title="GitHub"/></a></td>
+    <td><a href="https://gitlab.com" target="_blank" rel="noreferrer"><img src="https://github.com/rdimascio/icons/blob/master/icons/gitlab.svg" width="40" height="40" alt="GitLab" title="GitLab"/></a></td>
+    <td><a href="https://firefox.com" target="_blank" rel="noreferrer"><img src="https://github.com/rdimascio/icons/blob/master/icons/firefox.svg" width="40" height="40" alt="Firefox" title="Firefox"/></a></td>
+    <td><a href="https://codewars.com" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/fluent/1200/codewars.jpg" width="40" height="40" alt="Codewars" title="Codewars"/></a></td>
+    <td><a href="https://www.freecodecamp.org/" target="_blank" rel="noreferrer"><img src="https://design-style-guide.freecodecamp.org/downloads/fcc_primary_small.svg" width="40" height="40" alt="freeCodeCamp" title="freeCodeCamp"/></a></td>
+    <td><a href="https://fr.wikipedia.org/wiki/Algorithme" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/1471/1471444.png" width="40" height="40" alt="Algorithm" title="Algorithm"/></a></td>
+  </tr>
+</table>
 
 ---
 
