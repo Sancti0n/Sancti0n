@@ -51,10 +51,10 @@ Je suis un développeur passionné par la création de solutions web robustes, m
 
 ## Informations
 Rank: 2 kyu  
-Honor: 7,535  
-Leaderboard Position: #1,100  
-Honor Percentile: Top 0.146%  
-Total Completed Kata: 1,680  
+Honor: 7,577  
+Leaderboard Position: #1,093  
+Honor Percentile: Top 0.145%  
+Total Completed Kata: 1,682  
 Total Languages Trained: 13  
 Highest Trained: JavaScript (2 kyu)   
 
@@ -64,30 +64,30 @@ Highest Trained: JavaScript (2 kyu)
 | Niveau de Difficulté | Nombre de Katas Complétés |
 | :------------------- | :------------------------ |
 | **3 kyu** (Expert)   | **1** |
-| **4 kyu** (Pro)      | **3** |
-| **5 kyu** (Intermédiaire) | **41** |
-| **6 kyu** (Basique)  | **234** |
-| **7 kyu** (Novice)   | **925** |
-| **8 kyu** (Débutant) | **341** |
+| **4 kyu** (Pro)      | **5** |
+| **5 kyu** (Intermédiaire) | **48** |
+| **6 kyu** (Basique)  | **260** |
+| **7 kyu** (Novice)   | **961** |
+| **8 kyu** (Débutant) | **360** |
 
 #### Répartition des algorithmes par langage, total et nombre de solutions uniques
 | Langage | Rang (8 kyu -> 1 dan) | Nombre d'algorithmes |
 | :------ | :-------------------: | :------------------: |
-| JavaScript | 2 kyu | 1446 |
-| Python | 2 kyu | 1346 |
+| JavaScript | 2 kyu | 1449 |
+| Python | 2 kyu | 1347 |
+| Java | 4 kyu | 382 |
 | PHP | 4 kyu | 379 |
-| Java | 4 kyu | 379 |
-| TypeScript | 5 kyu | 172 |
+| TypeScript | 5 kyu | 197 |
 | SQL | 6 kyu | 47 |
-| C | 7 kyu | 9 |
+| C | 7 kyu | 10 |
+| Ruby | 7 kyu | 7 |
 | Dart | 8 kyu | 6 |
 | C# | 8 kyu | 5 |
-| Ruby | 7 kyu | 5 |
 | C++ | 8 kyu | 3 |
 | Rust | 8 kyu | 2 |
 | D | 8 kyu | 1 |
-| Nombre d'algorithmes cumulés | | 3800 |
-| Nombre de solutions uniques  | | 1680 |
+| Nombre d'algorithmes cumulés | | 3835 |
+| Nombre de solutions uniques  | | 1682 |
 
 ### Logique, Algorithmique & Puzzles
 | **Fondamentaux** | **Structures & Graphes** | **Puzzles & Défis** |
