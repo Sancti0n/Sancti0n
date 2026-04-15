@@ -33,7 +33,7 @@ Je suis un développeur passionné par la création de solutions web robustes, m
     <a href="https://github.com" target="_blank" rel="noreferrer"><img src="https://github.com/rdimascio/icons/blob/master/icons/github.svg" width="40" height="40" alt="GitHub" title="GitHub"/></a>
     <a href="https://firefox.com" target="_blank" rel="noreferrer"><img src="https://github.com/rdimascio/icons/blob/master/icons/firefox.svg" width="40" height="40" alt="Firefox" title="Firefox"/></a>
     <a href="https://codewars.com" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/fluent/1200/codewars.jpg" width="40" height="40" alt="Codewars" title="Codewars"/></a>
-    <img src="https://cdn-icons-png.flaticon.com/512/1471/1471444.png" width="40" height="40" alt="Algorithm" title="Algorithm"/>
+    <a href="https://fr.wikipedia.org/wiki/Algorithme" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/1471/1471444.png" width="40" height="40" alt="Algorithm" title="Algorithm"/></a>
     <a href="https://www.freecodecamp.org/" target="_blank" rel="noreferrer"><img src="https://design-style-guide.freecodecamp.org/downloads/fcc_primary_small.svg" width="40" height="40" alt="freeCodeCamp" title="freeCodeCamp"/></a>
 </p>
 
