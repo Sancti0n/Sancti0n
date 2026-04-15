@@ -11,11 +11,11 @@ Je suis un développeur passionné par la création de solutions web robustes, m
 
 * <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="22" height="22" alt="LinkedIn" title="Linkedin"> **LinkedIn :** <a href="https://www.linkedin.com/in/j%C3%A9r%C3%A9mie-maufret/" target="_blank" rel="noreferrer">Mon profil</a>
     
-* <img src="https://design-style-guide.freecodecamp.org/downloads/fcc_primary_small.svg" width="40" height="40" alt="FreeCodeCamp" title="freeCodeCamp"/> **freeCodeCamp :** <a href="https://www.freecodecamp.org/fcc7f604b88-9a6b-4009-b621-da6f433437e4" target="_blank">Mon profil</a>
+* <img src="https://design-style-guide.freecodecamp.org/downloads/fcc_primary_small.svg" width="22" height="22" alt="freeCodeCamp" title="freeCodeCamp"/> **freeCodeCamp :** <a href="https://www.freecodecamp.org/fcc7f604b88-9a6b-4009-b621-da6f433437e4" target="_blank" rel="noreferrer">Mon profil</a>
     
-* <img src="https://img.icons8.com/fluent/1200/codewars.jpg" width="22" height="22" alt="Codewars" title="Codewars"/> **Codewars :** <a href="https://www.codewars.com/users/Sancti0n" target="_blank">Mon profil</a>
+* <img src="https://img.icons8.com/fluent/1200/codewars.jpg" width="22" height="22" alt="Codewars" title="Codewars"/> **Codewars :** <a href="https://www.codewars.com/users/Sancti0n" target="_blank" rel="noreferrer">Mon profil</a>
 
-* <img src="https://github.com/rdimascio/icons/blob/master/icons/gitlab.svg" width="22" height="22" alt="GitLab" title="GitLab"/> **GitLab :** <a href="https://gitlab.com/Sancti0n" target="_blank">Mon profil</a>
+* <img src="https://github.com/rdimascio/icons/blob/master/icons/gitlab.svg" width="22" height="22" alt="GitLab" title="GitLab"/> **GitLab :** <a href="https://gitlab.com/Sancti0n" target="_blank" rel="noreferrer">Mon profil</a>
 
 ---
 
