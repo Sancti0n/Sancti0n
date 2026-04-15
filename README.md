@@ -67,6 +67,7 @@ Je suis un développeur passionné par la création de solutions web robustes, m
     <td><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="40" height="40" alt="Java" title="Java"/></a></td>
     <td><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="40" height="40" alt="MySQL" title="MySQL"/></a></td>
     <td><a href="https://en.wikipedia.org/wiki/SQL" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/download/331760/sql-database-generic.svg" width="40" height="40" alt="SQL" title="SQL" style="filter: brightness(0) saturate(100%) invert(31%) sepia(94%) General-blue-tone;"/></a></td>
+    <td><a href="https://www.markdownguide.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/markdown.svg" width="40" height="40" alt="Markdown" title="Markdown"/></a></td>
   </tr>
   <tr>
     <td><b>Tools</b></td>
